@@ -1,7 +1,7 @@
 # CoffeeOrderApp
 간단한 커피주문 앱을 만들어보자
 
-<img src = "https://user-images.githubusercontent.com/16756666/103751727-17aecb80-504c-11eb-8842-a0b275d31f61.gif" width = 30%>
+<img src = "https://user-images.githubusercontent.com/16756666/103751727-17aecb80-504c-11eb-8842-a0b275d31f61.gif" width = 30%></img>
 <br>
 ## 요구사항
 1. 커피의 수량을 1부터 10까지 버튼으로 지정할 수 있다.
